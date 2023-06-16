@@ -11,6 +11,7 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "^14.2.0",
+    "@angular/cdk": "^7.0.0",
     "@angular/common": "^14.2.0",
     "@angular/compiler": "^14.2.0",
     "@angular/core": "^14.2.0",
@@ -18,7 +19,11 @@
     "@angular/platform-browser": "^14.2.0",
     "@angular/platform-browser-dynamic": "^14.2.0",
     "@angular/router": "^14.2.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
+    "postcss-import": "^15.1.0",
     "rxjs": "~7.5.0",
+    "tailwindcss": "^3.3.2",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },
